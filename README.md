@@ -1,15 +1,14 @@
-### Hello World, I'm samantha 👋 
-# I'm a Software Engineer Student !
+### ![gif_coding](https://user-images.githubusercontent.com/19303925/140370895-b3d531d6-b0c1-493f-9416-4901663c145f.gif)
+
+### Hello World, I'm samantha Software Engineer student 👋 
+
+### ✍ You can find my projects here
+<li>📈 I’m currently working at Société Générale and SEPEFREI </li>
+<li>💬 Ask me about anything, i'm broad-minded </li>
+<li>💜 Passionate about Web Development, Music, volleyBall </li>
+⚡ 
+
+## Languages and Tools:
 
 
 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-samantha202/samantha202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
