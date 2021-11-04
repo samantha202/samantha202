@@ -10,5 +10,7 @@
 
 ## Languages and Tools:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?samantha202=anuraghazra&show_icons=true&theme=radical)
+
 
 
